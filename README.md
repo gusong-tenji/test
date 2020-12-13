@@ -32,7 +32,7 @@
 
 ## 安装
 
-已安装MySQL数据库，然后导入migou.sql文件
+已安装MySQL数据库，然后导入tenji.sql文件
 
 然后通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
